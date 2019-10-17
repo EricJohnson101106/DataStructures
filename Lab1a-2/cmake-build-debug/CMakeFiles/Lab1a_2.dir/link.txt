@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab1a_2.dir/Lab1A-2.cpp.o CMakeFiles/Lab1a_2.dir/feet_to_meters.cpp.o  -o Lab1a_2 

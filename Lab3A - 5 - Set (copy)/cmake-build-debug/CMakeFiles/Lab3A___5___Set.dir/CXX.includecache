@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Lab3A - 5 - Set/EJset.cpp
+cassert
+-
+iostream
+-
+EJset.h
+/home/flidro/Desktop/DataStructures/Lab3A - 5 - Set/EJset.h
+
+/home/flidro/Desktop/DataStructures/Lab3A - 5 - Set/EJset.h
+cstdlib
+-
+
+/home/flidro/Desktop/DataStructures/Lab3A - 5 - Set/main.cpp
+iostream
+-
+EJset.h
+/home/flidro/Desktop/DataStructures/Lab3A - 5 - Set/EJset.h
+

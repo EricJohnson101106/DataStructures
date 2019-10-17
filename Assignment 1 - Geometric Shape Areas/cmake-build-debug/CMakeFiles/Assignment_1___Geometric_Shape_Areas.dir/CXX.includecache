@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/geometric_area_formula.cpp
+iostream
+-
+cassert
+-
+cmath
+-
+iomanip
+-
+geometric_shape.h
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/geometric_shape.h
+
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/geometric_shape.h
+
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/geometric_shape_areas.cpp
+iostream
+-
+iomanip
+-
+geometric_shape.h
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/geometric_shape.h
+

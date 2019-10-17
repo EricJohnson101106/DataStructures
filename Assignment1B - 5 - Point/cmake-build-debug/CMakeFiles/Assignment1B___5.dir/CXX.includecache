@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJline_segment.cpp
+cmath
+-
+EJline_segment.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJline_segment.h
+EJpoint.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJpoint.h
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJline_segment.h
+EJpoint.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJpoint.h
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJpoint.cpp
+cmath
+-
+EJpoint.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJpoint.h
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJpoint.h
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/main.cpp
+iostream
+-
+EJpoint.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJpoint.h
+EJline_segment.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 5 - Point/EJline_segment.h
+

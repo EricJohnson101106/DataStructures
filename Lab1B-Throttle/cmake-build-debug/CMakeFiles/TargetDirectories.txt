@@ -1,0 +1,3 @@
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/cmake-build-debug/CMakeFiles/Lab1B_Throttle.dir

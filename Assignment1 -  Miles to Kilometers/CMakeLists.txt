@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Assignment1____Miles_to_Kilometers)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Assignment1____Miles_to_Kilometers miles_to_kilometers.cpp miles_to_kilometers_conversion.cpp miles_to_kilometers.h)

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 11-12 - Pseudorandom Integers/main.cpp
+iostream
+-
+pseudorandom_integers.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 11-12 - Pseudorandom Integers/pseudorandom_integers.h
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 11-12 - Pseudorandom Integers/pseudorandom_integers.cpp
+cassert
+-
+cstdlib
+-
+cmath
+-
+pseudorandom_integers.h
+/home/flidro/Desktop/DataStructures/Assignment1B - 11-12 - Pseudorandom Integers/pseudorandom_integers.h
+
+/home/flidro/Desktop/DataStructures/Assignment1B - 11-12 - Pseudorandom Integers/pseudorandom_integers.h
+

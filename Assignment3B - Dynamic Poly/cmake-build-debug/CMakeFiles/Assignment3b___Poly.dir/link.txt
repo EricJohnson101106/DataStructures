@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Assignment3b___Poly.dir/main.cpp.o CMakeFiles/Assignment3b___Poly.dir/EJDynamicPoly.cpp.o  -o Assignment3b___Poly 

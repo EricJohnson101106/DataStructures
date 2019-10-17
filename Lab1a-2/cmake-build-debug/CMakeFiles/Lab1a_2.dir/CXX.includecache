@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Lab1a-2/Lab1A-2.cpp
+iostream
+-
+iomanip
+-
+cassert
+-
+Lab1A-2.h
+/home/flidro/Desktop/DataStructures/Lab1a-2/Lab1A-2.h
+
+/home/flidro/Desktop/DataStructures/Lab1a-2/Lab1A-2.h
+
+/home/flidro/Desktop/DataStructures/Lab1a-2/feet_to_meters.cpp
+iostream
+-
+iomanip
+-
+cassert
+-
+Lab1A-2.h
+/home/flidro/Desktop/DataStructures/Lab1a-2/Lab1A-2.h
+

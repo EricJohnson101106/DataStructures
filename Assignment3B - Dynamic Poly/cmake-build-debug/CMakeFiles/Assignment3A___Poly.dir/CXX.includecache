@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment3B - Dynamic Poly/EJDynamicPoly.cpp
+algorithm
+-
+cassert
+-
+climits
+-
+cmath
+-
+EJDynamicPoly.h
+/home/flidro/Desktop/DataStructures/Assignment3B - Dynamic Poly/EJDynamicPoly.h
+
+/home/flidro/Desktop/DataStructures/Assignment3B - Dynamic Poly/EJDynamicPoly.h
+iostream
+-
+
+/home/flidro/Desktop/DataStructures/Assignment3B - Dynamic Poly/main.cpp
+iostream
+-
+EJDynamicPoly.h
+/home/flidro/Desktop/DataStructures/Assignment3B - Dynamic Poly/EJDynamicPoly.h
+

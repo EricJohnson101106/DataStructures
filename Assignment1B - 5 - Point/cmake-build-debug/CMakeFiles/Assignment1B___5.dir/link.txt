@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Assignment1B___5.dir/main.cpp.o CMakeFiles/Assignment1B___5.dir/EJpoint.cpp.o CMakeFiles/Assignment1B___5.dir/EJline_segment.cpp.o  -o Assignment1B___5 

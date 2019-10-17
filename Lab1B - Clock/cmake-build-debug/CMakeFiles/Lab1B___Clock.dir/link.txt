@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab1B___Clock.dir/main.cpp.o CMakeFiles/Lab1B___Clock.dir/Clock.cpp.o  -o Lab1B___Clock 

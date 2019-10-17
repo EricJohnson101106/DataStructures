@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment1 -  Miles to Kilometers/miles_to_kilometers.cpp
+iostream
+-
+iomanip
+-
+cstdlib
+-
+cassert
+-
+miles_to_kilometers.h
+/home/flidro/Desktop/DataStructures/Assignment1 -  Miles to Kilometers/miles_to_kilometers.h
+
+/home/flidro/Desktop/DataStructures/Assignment1 -  Miles to Kilometers/miles_to_kilometers.h
+
+/home/flidro/Desktop/DataStructures/Assignment1 -  Miles to Kilometers/miles_to_kilometers_conversion.cpp
+iostream
+-
+iomanip
+-
+cstdlib
+-
+cassert
+-
+miles_to_kilometers.h
+/home/flidro/Desktop/DataStructures/Assignment1 -  Miles to Kilometers/miles_to_kilometers.h
+

@@ -1,0 +1,3 @@
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flidro/Desktop/DataStructures/Assignment 1 - Geometric Shape Areas/cmake-build-debug/CMakeFiles/Assignment_1___Geometric_Shape_Areas.dir

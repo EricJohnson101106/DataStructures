@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment3A - Poly/main.cpp
+iostream
+-
+polynomial.h
+/home/flidro/Desktop/DataStructures/Assignment3A - Poly/polynomial.h
+
+/home/flidro/Desktop/DataStructures/Assignment3A - Poly/polynomial.cpp
+cassert
+-
+climits
+-
+cmath
+-
+polynomial.h
+/home/flidro/Desktop/DataStructures/Assignment3A - Poly/polynomial.h
+
+/home/flidro/Desktop/DataStructures/Assignment3A - Poly/polynomial.h
+iostream
+-
+

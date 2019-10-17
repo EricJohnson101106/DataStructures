@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab1B_Throttle.dir/main.cpp.o CMakeFiles/Lab1B_Throttle.dir/throttle.cpp.o  -o Lab1B_Throttle 

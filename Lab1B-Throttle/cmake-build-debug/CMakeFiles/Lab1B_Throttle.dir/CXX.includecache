@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/main.cpp
+iostream
+-
+throttle.h
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/throttle.h
+
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/throttle.cpp
+cassert
+-
+throttle.h
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/throttle.h
+
+/home/flidro/Desktop/DataStructures/Lab1B-Throttle/throttle.h
+

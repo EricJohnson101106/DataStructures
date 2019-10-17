@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Assignment1B___11_12___Pseudorandom_Integers)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Assignment1B___11_12___Pseudorandom_Integers main.cpp pseudorandom_integers.cpp pseudorandom_integers.h)

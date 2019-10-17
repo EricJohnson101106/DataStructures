@@ -1,0 +1,3 @@
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/cmake-build-debug/CMakeFiles/Lab3A___5___Set.dir

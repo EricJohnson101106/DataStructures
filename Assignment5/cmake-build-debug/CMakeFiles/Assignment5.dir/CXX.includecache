@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Assignment5/main.cpp
+iostream
+-
+node.h
+/home/flidro/Desktop/DataStructures/Assignment5/node.h
+
+/home/flidro/Desktop/DataStructures/Assignment5/node.cpp
+node.h
+/home/flidro/Desktop/DataStructures/Assignment5/node.h
+cassert
+-
+cstdlib
+-
+
+/home/flidro/Desktop/DataStructures/Assignment5/node.h
+cstdlib
+-
+

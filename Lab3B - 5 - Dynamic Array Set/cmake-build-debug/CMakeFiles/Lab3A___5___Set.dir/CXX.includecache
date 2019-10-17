@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/EJDynamicSet.cpp
+cassert
+-
+iostream
+-
+algorithm
+-
+EJDynamicSet.h
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/EJDynamicSet.h
+
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/EJDynamicSet.h
+cstdlib
+-
+
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/main.cpp
+iostream
+-
+EJDynamicSet.h
+/home/flidro/Desktop/DataStructures/Lab3B - 5 - Dynamic Array Set/EJDynamicSet.h
+
